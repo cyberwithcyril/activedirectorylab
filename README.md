@@ -16,8 +16,8 @@ This lab demonstrates setting up a **mini corporate network** using VirtualBox w
 
 ---
 
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e9ce4bd2-061b-4ecb-aabc-d85f51e65b60" />
-   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/24b8a2a6-65e9-4761-81f1-123043334f8e" />
+  <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/e9ce4bd2-061b-4ecb-aabc-d85f51e65b60" />
+   <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/24b8a2a6-65e9-4761-81f1-123043334f8e" />
 
 
 
