@@ -8,7 +8,11 @@ This lab demonstrates setting up a **mini corporate network** using VirtualBox w
 - Domain joining a client machine  
 - DHCP and NAT configuration  
 
+
 > **Note:** Initial server preparation, installation of roles, promotion to domain controller, and DHCP configuration were performed manually using the **GUI**. Automation is only applied for user account creation and joining client machines to the domain.
+
+[Download Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)  
+[Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 
 ---
 <p align="center">
